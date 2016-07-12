@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Share your pictures.",
   "main": "server.js",
+  "repository": "https://github.com/rafaelmv/platzigram",
   "keywords": [
     "platzi",
     "javascript"
